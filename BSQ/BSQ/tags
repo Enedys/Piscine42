@@ -1,0 +1,11 @@
+Mmain	main.c	/^int	main(int argc, char **argv)$/
+choose_subfield	main.c	/^void choose_subfield(t_rect *c_rect, t_list *c_lim/
+for	perl	/^for (my $i = 0; $i < $y; $i++) {$/
+ft_min	main.c	/^int ft_min(int val1, int val2)$/
+ft_refresh_best	main.c	/^void ft_refresh_best(t_rect *c_rect, t_brect *best/
+is_valid_sym	main.c	/^int is_valid_sym(char sym, char *syms)$/
+open	map_generator.pl	/^open(FH, '>', $filename) or die "failed to open ${/
+t_brect	ft_list.h	/^}					t_brect;$/
+t_list	ft_list.h	/^}					t_list;$/
+t_point	ft_list.h	/^}					t_point;$/
+t_rect	ft_list.h	/^}					t_rect;$/
